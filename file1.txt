@@ -1,1 +1,1 @@
-This is my first git exp
+Git is used for version control
